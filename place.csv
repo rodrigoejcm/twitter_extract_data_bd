@@ -1,0 +1,388 @@
+id	tweet	full_name	name	place_type	country	country_code
+1	1053073337742712834	Brusque, Brasil	Brusque	city	Brasil	BR
+2	1053074069036392448	Recife, Brasil	Recife	city	Brasil	BR
+3	1053074365062041600	Santos, Brasil	Santos	city	Brazil	BR
+4	1053074601507463169	Campinas, Brasil	Campinas	city	Brasil	BR
+5	1053074601671036928	Salvador, Brasil	Salvador	city	Brasil	BR
+6	1053074656146669570	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+7	1053074764812705793	São Caetano do Sul, Brasil	São Caetano do Sul	city	Brasil	BR
+8	1053075334483054592	São Caetano do Sul, Brasil	São Caetano do Sul	city	Brasil	BR
+9	1053075476766511104	Belo Horizonte, Brasil	Belo Horizonte	city	Brasil	BR
+10	1053075660292481025	Guaratinguetá, Brasil	Guaratinguetá	city	Brasil	BR
+11	1053075808884060160	Joinville, Brasil	Joinville	city	Brasil	BR
+12	1053075827179569154	Guaratinguetá, Brasil	Guaratinguetá	city	Brasil	BR
+13	1053076273243795457	Joinville, Brasil	Joinville	city	Brasil	BR
+14	1053076464520847360	Recife, Brasil	Recife	city	Brasil	BR
+15	1053077002171887616	Olinda, Brasil	Olinda	city	Brasil	BR
+16	1053077430141927427	São Caetano do Sul, Brasil	São Caetano do Sul	city	Brasil	BR
+17	1053077741380214784	Garanhuns, Brasil	Garanhuns	city	Brasil	BR
+18	1053077926202261511	Recife, Brasil	Recife	city	Brasil	BR
+19	1053078589074214912	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+20	1053078835187642371	Areal, Brasil	Areal	city	Brasil	BR
+21	1053079107737673729	Chapecó, Brasil	Chapecó	city	Brasil	BR
+22	1053079375619473408	Rio de Janeiro, Brazil	Rio de Janeiro	city	Brazil	BR
+23	1053079439670685696	Belém, Brasil	Belém	city	Brasil	BR
+24	1053079646584139776	Areal, Brasil	Areal	city	Brasil	BR
+25	1053079655476051968	São Paulo, Brasil	São Paulo	city	Brasil	BR
+26	1053079677970079744	São Paulo, Brasil	São Paulo	city	Brasil	BR
+27	1053079779497426944	Natal, Brasil	Natal	city	Brasil	BR
+28	1053079879464480768	Nova Iguaçu, Brasil	Nova Iguaçu	city	Brasil	BR
+29	1053080320919117825	Salvador, Brasil	Salvador	city	Brasil	BR
+30	1053080327240015872	Guaratinguetá, Brasil	Guaratinguetá	city	Brasil	BR
+31	1053080339411886081	Juiz de Fora, Brasil	Juiz de Fora	city	Brasil	BR
+32	1053080573386874880	Belo Horizonte, Brasil	Belo Horizonte	city	Brasil	BR
+33	1053081064414068736	São Caetano do Sul, Brasil	São Caetano do Sul	city	Brasil	BR
+34	1053081188271906816	Reserva do Iguaçu, Brasil	Reserva do Iguaçu	city	Brasil	BR
+35	1053081358082416640	São Caetano do Sul, Brasil	São Caetano do Sul	city	Brasil	BR
+36	1053081542061375501	Natal, Brasil	Natal	city	Brasil	BR
+37	1053081822672883714	Florianópolis, Brasil	Florianópolis	city	Brasil	BR
+38	1053082137530941441	Lauro de Freitas, Brasil	Lauro de Freitas	city	Brasil	BR
+39	1053082730064461826	Feira de Santana, Brasil	Feira de Santana	city	Brasil	BR
+40	1053084103837450243	Juiz de Fora, Brasil	Juiz de Fora	city	Brasil	BR
+41	1053084169012699137	Cuiabá, Brasil	Cuiabá	city	Brasil	BR
+42	1053084481807175680	Brusque, Brasil	Brusque	city	Brasil	BR
+43	1053084736380387328	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+44	1053085107236626432	Campinas, Brasil	Campinas	city	Brasil	BR
+45	1053085181815545856	Camaçari, Brasil	Camaçari	city	Brazil	BR
+46	1053085736059179008	São Gonçalo, Brasil	São Gonçalo	city	Brasil	BR
+47	1053085844079284225	Curitiba, Brasil	Curitiba	city	Brasil	BR
+48	1053085930544861185	São Paulo, Brasil	São Paulo	city	Brasil	BR
+49	1053086311060594688	Guarulhos, Brasil	Guarulhos	city	Brasil	BR
+50	1053086423845347328	Osasco, Brasil	Osasco	city	Brasil	BR
+51	1053086431206432769	Brasília, Brasil	Brasília	city	Brasil	BR
+52	1053086507349827585	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+53	1053086918806831105	Brasília, Brasil	Brasília	city	Brasil	BR
+54	1053087221530673155	Araguaína, Brasil	Araguaína	city	Brasil	BR
+55	1053087448404770816	Curitiba, Brazil	Curitiba	city	Brazil	BR
+56	1053087484614246400	Pantin, France	Pantin	city	France	FR
+57	1053087691888320512	Brasília, Brasil	Brasília	city	Brasil	BR
+58	1053087728265502721	Nova Iguaçu, Brasil	Nova Iguaçu	city	Brasil	BR
+59	1053087800155881472	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+60	1053088058973872130	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+61	1053088098769362944	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+62	1053088448008077312	Valinhos, Brasil	Valinhos	city	Brasil	BR
+63	1053088495449882627	Recife, Brazil	Recife	city	Brazil	BR
+64	1053088531160203270	Apodi, Brasil	Apodi	city	Brasil	BR
+65	1053088545144037376	Ipanema, Brasil	Ipanema	city	Brazil	BR
+66	1053088612655489024	Cabo de Santo Agostinho, Brasil	Cabo de Santo Agostinho	city	Brasil	BR
+67	1053088820084830209	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+68	1053089095512133638	Cabo de Santo Agostinho, Brasil	Cabo de Santo Agostinho	city	Brasil	BR
+69	1053089107449143296	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+70	1053089142756782085	Cabo de Santo Agostinho, Brasil	Cabo de Santo Agostinho	city	Brasil	BR
+71	1053089267235348480	Mossoró, Brasil	Mossoró	city	Brasil	BR
+72	1053089387838357504	São Paulo, Brasil	São Paulo	city	Brasil	BR
+73	1053089429886287877	Sao Paulo, Brazil	Sao Paulo	city	Brazil	BR
+74	1053089466443857920	Cabo de Santo Agostinho, Brasil	Cabo de Santo Agostinho	city	Brasil	BR
+75	1053089717682667520	Balneário Camboriú, Brasil	Balneário Camboriú	city	Brasil	BR
+76	1053089717867159552	Juiz de Fora, Brasil	Juiz de Fora	city	Brasil	BR
+77	1053089902026461184	São Caetano do Sul, Brasil	São Caetano do Sul	city	Brasil	BR
+78	1053090002941419522	Santo André, Brasil	Santo André	city	Brasil	BR
+79	1053090063410704385	Pantin, France	Pantin	city	France	FR
+80	1053090184852656128	Guaratinguetá, Brasil	Guaratinguetá	city	Brasil	BR
+81	1053090303090049025	São Paulo, Brasil	São Paulo	city	Brasil	BR
+82	1053090344756305921	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+83	1053090720825925632	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+84	1053090794658283520	Cabo de Santo Agostinho, Brasil	Cabo de Santo Agostinho	city	Brasil	BR
+85	1053091181532454912	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+86	1053091221063774210	Campinas, Brasil	Campinas	city	Brasil	BR
+87	1053091249220128768	São Paulo, Brasil	São Paulo	city	Brasil	BR
+88	1053091354757206016	Campos Sales, Brasil	Campos Sales	city	Brasil	BR
+89	1053091456037146624	Capela, Brasil	Capela	city	Brazil	BR
+90	1053091837525790720	São Paulo, Brasil	São Paulo	city	Brasil	BR
+91	1053092119114629121	São Caetano do Sul, Brasil	São Caetano do Sul	city	Brasil	BR
+92	1053092158461407234	São Paulo, Brasil	São Paulo	city	Brasil	BR
+93	1053092234046906371	São Paulo, Brasil	São Paulo	city	Brasil	BR
+94	1053092456202428416	São Gonçalo do Amarante, Brasil	São Gonçalo do Amarante	city	Brasil	BR
+95	1053092690341060608	Feira de Santana, Brasil	Feira de Santana	city	Brazil	BR
+96	1053093187848417280	Ribeirão das Neves, Brasil	Ribeirão das Neves	city	Brasil	BR
+97	1053093402080878592	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+98	1053093590036037642	Porto Alegre, Brasil	Porto Alegre	city	Brasil	BR
+99	1053093706398683139	Niterói, Brasil	Niterói	city	Brasil	BR
+100	1053093812921352192	Porto Alegre, Brasil	Porto Alegre	city	Brasil	BR
+101	1053093816180318208	Ananindeua, Brasil	Ananindeua	city	Brasil	BR
+102	1053094081298161664	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+103	1053094170536148992	Guarulhos, Brasil	Guarulhos	city	Brasil	BR
+104	1053094379857080320	Teresina, Brasil	Teresina	city	Brasil	BR
+105	1053094410748133376	São Paulo, Brasil	São Paulo	city	Brasil	BR
+106	1053094417257631746	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+107	1053094447217631233	São Caetano do Sul, Brasil	São Caetano do Sul	city	Brasil	BR
+108	1053094540637278214	Teresópolis, Brasil	Teresópolis	city	Brasil	BR
+109	1053094649190146048	João Pessoa, Brasil	João Pessoa	city	Brasil	BR
+110	1053094743838736384	São Paulo, Brasil	São Paulo	city	Brasil	BR
+111	1053094940874555393	São Paulo, Brasil	São Paulo	city	Brasil	BR
+112	1053094969597149184	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+113	1053095097204645889	Recife, Brasil	Recife	city	Brasil	BR
+114	1053095309092552705	Carlos Chagas, Brasil	Carlos Chagas	city	Brasil	BR
+115	1053095464281825287	São Paulo, Brasil	São Paulo	city	Brasil	BR
+116	1053095477401530368	Toronto, Ontario	Toronto	city	Canada	CA
+117	1053095637904965633	Rio de Janeiro, Brazil	Rio de Janeiro	city	Brazil	BR
+118	1053095644968243200	Toronto, Ontario	Toronto	city	Canada	CA
+119	1053095662655627264	Parnamirim, Brasil	Parnamirim	city	Brasil	BR
+120	1053095675355979782	Registro, Brasil	Registro	city	Brasil	BR
+121	1053095895540133888	Toronto, Ontario	Toronto	city	Canada	CA
+122	1053096023227355136	Caicó, Brasil	Caicó	city	Brasil	BR
+123	1053096205855744000	São Luís, Brasil	São Luís	city	Brasil	BR
+124	1053096352597639168	Ponta Grossa, Brasil	Ponta Grossa	city	Brasil	BR
+125	1053096510299222016	Campinas, Brasil	Campinas	city	Brasil	BR
+126	1053096777233113090	Teófilo Otoni, Brasil	Teófilo Otoni	city	Brasil	BR
+127	1053096813257986054	Jundiaí, Brasil	Jundiaí	city	Brasil	BR
+128	1053096902416388097	São Paulo, Brasil	São Paulo	city	Brasil	BR
+129	1053096994267369472	Ipatinga, Brasil	Ipatinga	city	Brasil	BR
+130	1053097202057404416	Santo André, Brasil	Santo André	city	Brazil	BR
+131	1053097205207306240	Belo Horizonte, Brasil	Belo Horizonte	city	Brasil	BR
+132	1053097287386308609	Jundiaí, Brasil	Jundiaí	city	Brasil	BR
+133	1053097399181283328	Sao Paulo, Brazil	Sao Paulo	admin	Brazil	BR
+134	1053097471902146560	Carapicuíba, Brasil	Carapicuíba	city	Brasil	BR
+135	1053097548167163905	Várzea Grande, Brasil	Várzea Grande	city	Brasil	BR
+136	1053097876019142656	Santo André, Brasil	Santo André	city	Brazil	BR
+137	1053097900975316992	Sao Paulo, Brazil	Sao Paulo	city	Brazil	BR
+138	1053097912476094464	Recife, Brasil	Recife	city	Brasil	BR
+139	1053098086116085760	Porto Alegre, Brasil	Porto Alegre	city	Brasil	BR
+140	1053098102230581249	São José dos Campos, Brasil	São José dos Campos	city	Brasil	BR
+141	1053098725168611329	Barretos, Brasil	Barretos	city	Brasil	BR
+142	1053099206913728512	São Paulo, Brasil	São Paulo	city	Brasil	BR
+143	1053099228061417473	Pedra, Brasil	Pedra	city	Brasil	BR
+144	1053099507481825286	Nova Iguaçu, Brasil	Nova Iguaçu	city	Brasil	BR
+145	1053099689514545152	Salvador, Brasil	Salvador	city	Brasil	BR
+146	1053099857404141568	São Paulo, Brasil	São Paulo	city	Brasil	BR
+147	1053099996784947200	Capela, Brasil	Capela	city	Brazil	BR
+148	1053100109406355456	Pelotas, Brasil	Pelotas	city	Brazil	BR
+149	1053100362805268480	Joinville, Brasil	Joinville	city	Brasil	BR
+150	1053100758177140736	Maringá, Brasil	Maringá	city	Brasil	BR
+151	1053100822081556480	Florianópolis, Brasil	Florianópolis	city	Brasil	BR
+152	1053101147718856705	Guarulhos, Brasil	Guarulhos	city	Brasil	BR
+153	1053101201506607105	Porto Alegre, Brasil	Porto Alegre	city	Brasil	BR
+154	1053101402115989504	Manaus, Brasil	Manaus	city	Brasil	BR
+155	1053101420784873472	Belo Horizonte, Brasil	Belo Horizonte	city	Brasil	BR
+156	1053101450329513984	São Paulo, Brasil	São Paulo	city	Brasil	BR
+157	1053101660879417344	Belo Horizonte, Brasil	Belo Horizonte	city	Brasil	BR
+158	1053101998210465793	Campinas, Brasil	Campinas	city	Brazil	BR
+159	1053102221091655680	Capela, Brasil	Capela	city	Brazil	BR
+160	1053102272211763200	Porto Alegre, Brasil	Porto Alegre	city	Brasil	BR
+161	1053102292700987393	Campinas, Brasil	Campinas	city	Brazil	BR
+162	1053102387043463169	Porto Alegre, Brasil	Porto Alegre	city	Brasil	BR
+163	1053102450054520832	Montes Claros, Brasil	Montes Claros	city	Brasil	BR
+164	1053102497794007042	Campinas, Brasil	Campinas	city	Brazil	BR
+165	1053103254148710401	San Leopoldo, Brasil	San Leopoldo	city	Brasil	BR
+166	1053103303192666112	São Paulo, Brasil	São Paulo	city	Brasil	BR
+167	1053103334788399105	Recife, Brazil	Recife	city	Brazil	BR
+168	1053103367277428737	Rio Grande, Brasil	Rio Grande	city	Brasil	BR
+169	1053103765920854016	Porto Alegre, Brasil	Porto Alegre	city	Brasil	BR
+170	1053103947282571264	Alcobaça, Brasil	Alcobaça	city	Brasil	BR
+171	1053104125855051776	Tremembé, Brasil	Tremembé	city	Brasil	BR
+172	1053104191382736896	Sao Paulo, Brazil	Sao Paulo	city	Brazil	BR
+173	1053104259250745345	Curitiba, Brazil	Curitiba	city	Brazil	BR
+174	1053104319732596736	Juiz de Fora, Brasil	Juiz de Fora	city	Brasil	BR
+175	1053104320273674245	Atibaia, Brasil	Atibaia	city	Brasil	BR
+176	1053104426091769857	Rio Grande, Brasil	Rio Grande	city	Brasil	BR
+177	1053104516286033920	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+178	1053104572263288832	Brazil	Brazil	country	Brazil	BR
+179	1053104755667546113	Limeira, Brasil	Limeira	city	Brasil	BR
+180	1053104777683484672	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+181	1053105050577453056	São Luís, Brasil	São Luís	city	Brasil	BR
+182	1053105080667385857	Sao Paulo, Brazil	Sao Paulo	city	Brazil	BR
+183	1053105404698214400	São Paulo, Brasil	São Paulo	city	Brasil	BR
+184	1053105497459642374	Parnamirim, Brasil	Parnamirim	city	Brasil	BR
+185	1053105501574234117	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+186	1053105591068123136	Salvador, Brasil	Salvador	city	Brasil	BR
+187	1053105665856671746	McKinney, TX	McKinney	city	United States	US
+188	1053105788842074119	Goiânia, Brazil	Goiânia	city	Brazil	BR
+189	1053105960733028353	Goiânia, Brazil	Goiânia	city	Brazil	BR
+190	1053106026097065985	Franca, Brasil	Franca	city	Brazil	BR
+191	1053106470458478593	São Bernardo do Campo, Brasil	São Bernardo do Campo	city	Brasil	BR
+192	1053106635995078656	Brasília, Brasil	Brasília	city	Brasil	BR
+193	1053106645805527041	Belo Horizonte, Brasil	Belo Horizonte	city	Brasil	BR
+194	1053106685336842249	São Paulo, Brasil	São Paulo	city	Brasil	BR
+195	1053106968611770369	Galáxia	Galáxia	poi	Brasil	BR
+196	1053106994578710528	Brasília, Brasil	Brasília	city	Brasil	BR
+197	1053107066343247872	Campinas, Brasil	Campinas	city	Brazil	BR
+198	1053107185113317378	Perdões, Brasil	Perdões	city	Brasil	BR
+199	1053107513070108672	Brusque, Brasil	Brusque	city	Brasil	BR
+200	1053107529545330690	Campinas, Brasil	Campinas	city	Brazil	BR
+201	1053107580724281345	Manaus, Brasil	Manaus	city	Brasil	BR
+202	1053107681714683904	Florianópolis, Brasil	Florianópolis	city	Brasil	BR
+203	1053107906017681410	Betim, Brasil	Betim	city	Brasil	BR
+204	1053108081142444032	Niterói, Brasil	Niterói	city	Brasil	BR
+205	1053108196670349312	Feira de Santana, Brasil	Feira de Santana	city	Brazil	BR
+206	1053108387641245696	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+207	1053108418188402689	São Bernardo do Campo, Brasil	São Bernardo do Campo	city	Brasil	BR
+208	1053108701979127808	Manaus, Brasil	Manaus	city	Brasil	BR
+209	1053108865485676544	Goiânia, Brazil	Goiânia	city	Brazil	BR
+210	1053108909878272000	Brasília, Brasil	Brasília	city	Brasil	BR
+211	1053108917096603648	Brasília, Brazil	Brasília	city	Brazil	BR
+212	1053109106314276864	Belo Horizonte, Brasil	Belo Horizonte	city	Brasil	BR
+213	1053109196701474816	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+214	1053109307934470144	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+215	1053109309524111361	Florianópolis, Brasil	Florianópolis	city	Brasil	BR
+216	1053109461483708416	Rio de Janeiro, Brazil	Rio de Janeiro	city	Brazil	BR
+217	1053109529293062144	Diadema, Brasil	Diadema	city	Brasil	BR
+218	1053110214990405633	Portão, Brasil	Portão	city	Brasil	BR
+219	1053110441457655808	Cuiabá, Brasil	Cuiabá	city	Brasil	BR
+220	1053110781426982912	Manaus, Brasil	Manaus	city	Brasil	BR
+221	1053110794152488966	McKinney, TX	McKinney	city	United States	US
+222	1053111207421460480	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+223	1053111335867871232	Brasília, Brasil	Brasília	city	Brasil	BR
+224	1053111579598823426	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+225	1053111667616370689	Americana, Brasil	Americana	city	Brasil	BR
+226	1053111732632203264	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+227	1053112455184957440	Caiana, Brasil	Caiana	city	Brasil	BR
+228	1053112466148913157	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+229	1053112775675994115	Cotia, Brasil	Cotia	city	Brasil	BR
+230	1053113063858155520	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+231	1053113876659748864	Curitiba, Brasil	Curitiba	city	Brasil	BR
+232	1053114011435315206	Rio de Janeiro, Brazil	Rio de Janeiro	city	Brazil	BR
+233	1053114360430759936	Ribeirão Preto, Brasil	Ribeirão Preto	city	Brasil	BR
+234	1053114524339978240	Maringá, Brasil	Maringá	city	Brazil	BR
+235	1053114616706949121	São José dos Pinhais, Brasil	São José dos Pinhais	city	Brasil	BR
+236	1053114942889648128	Brasília, Brasil	Brasília	city	Brasil	BR
+237	1053115061659688966	Leme, Brasil	Leme	city	Brazil	BR
+238	1053115375125233664	São Bernardo do Campo, Brasil	São Bernardo do Campo	city	Brasil	BR
+239	1053115902152134656	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+240	1053115916270092289	Araxá, Brasil	Araxá	city	Brasil	BR
+241	1053115943013007361	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+242	1053116387382779904	São José dos Pinhais, Brasil	São José dos Pinhais	city	Brasil	BR
+243	1053116473756016640	Jundiaí, Brasil	Jundiaí	city	Brasil	BR
+244	1053116798902697984	Leme, Brasil	Leme	city	Brazil	BR
+245	1053117105577648128	Casimiro de Abreu, Brasil	Casimiro de Abreu	city	Brasil	BR
+246	1053117794995322880	Carlos Chagas, Brasil	Carlos Chagas	city	Brasil	BR
+247	1053118147958579200	Joinville, Brasil	Joinville	city	Brasil	BR
+248	1053118283547860993	Macaé, Brasil	Macaé	city	Brasil	BR
+249	1053118682761777152	São Bernardo do Campo, Brasil	São Bernardo do Campo	city	Brasil	BR
+250	1053118772498833410	Belo Horizonte, Brasil	Belo Horizonte	city	Brasil	BR
+251	1053119037952180224	São Paulo, Brasil	São Paulo	admin	Brasil	BR
+252	1053119151114457088	São Bernardo do Campo, Brasil	São Bernardo do Campo	city	Brasil	BR
+253	1053119246815895553	João Pessoa, Brasil	João Pessoa	city	Brasil	BR
+254	1053119253514215424	Farroupilha, Brasil	Farroupilha	city	Brasil	BR
+255	1053119406300114944	Balneário Camboriú, Brasil	Balneário Camboriú	city	Brasil	BR
+256	1053119575632551936	Águas Lindas de Goiás, Brasil	Águas Lindas de Goiás	city	Brasil	BR
+257	1053119997264957441	Brasília, Brasil	Brasília	city	Brasil	BR
+258	1053120288186163201	Sorocaba, Brasil	Sorocaba	city	Brasil	BR
+259	1053120372843929600	São Paulo, Brasil	São Paulo	city	Brasil	BR
+260	1053120451491360769	Macapá, Brasil	Macapá	city	Brasil	BR
+261	1053120871685070848	Campo Grande, Brasil	Campo Grande	city	Brasil	BR
+262	1053121055752118273	Palmas, Brasil	Palmas	city	Brasil	BR
+263	1053121512264396800	Campo Largo, Brasil	Campo Largo	city	Brasil	BR
+264	1053121815516721152	São Paulo, Brasil	São Paulo	city	Brasil	BR
+265	1053122405743288321	Caçapava, Brasil	Caçapava	city	Brasil	BR
+266	1053122435766239237	São Paulo, Brasil	São Paulo	city	Brasil	BR
+267	1053122675466485760	Brasília, Brasil	Brasília	city	Brasil	BR
+268	1053124563695996929	Torres, Brasil	Torres	city	Brasil	BR
+269	1053125431338131456	São Paulo, Brasil	São Paulo	city	Brasil	BR
+270	1053125460752850945	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+271	1053125789728849921	Barueri, Brasil	Barueri	city	Brasil	BR
+272	1053126046395043840	Brasília, Brasil	Brasília	city	Brasil	BR
+273	1053126172475883521	Barueri, Brasil	Barueri	city	Brasil	BR
+274	1053126406291537920	Jaboatão dos Guararapes, Brasil	Jaboatão dos Guararapes	city	Brasil	BR
+275	1053126640476307456	Ipatinga, Brasil	Ipatinga	city	Brasil	BR
+276	1053127080790106113	Campinas, Brasil	Campinas	city	Brazil	BR
+277	1053127463360978944	Passos, Brasil	Passos	city	Brasil	BR
+278	1053127575168540673	São Paulo, Brasil	São Paulo	city	Brasil	BR
+279	1053129414538682369	Santos, Brasil	Santos	city	Brasil	BR
+280	1053130706174574592	Manaus, Brasil	Manaus	city	Brasil	BR
+281	1053132032073707520	Itapecerica da Serra, Brasil	Itapecerica da Serra	city	Brazil	BR
+282	1053132358214332416	Itapecerica da Serra, Brasil	Itapecerica da Serra	city	Brazil	BR
+283	1053132465198583808	São Paulo, Brasil	São Paulo	city	Brasil	BR
+284	1053132556735000576	São Paulo, Brasil	São Paulo	city	Brasil	BR
+285	1053132661085138944	Paraguaçu Paulista, Brasil	Paraguaçu Paulista	city	Brasil	BR
+286	1053134087416938501	Campinas, Brasil	Campinas	city	Brasil	BR
+287	1053135336002543617	São Paulo, Brasil	São Paulo	city	Brasil	BR
+288	1053135443276058624	São Paulo, Brasil	São Paulo	city	Brasil	BR
+289	1053135553942749185	São Paulo, Brasil	São Paulo	city	Brasil	BR
+290	1053135568580866048	Paraguaçu Paulista, Brasil	Paraguaçu Paulista	city	Brasil	BR
+291	1053135629880569856	Paraguaçu Paulista, Brasil	Paraguaçu Paulista	city	Brasil	BR
+292	1053135702827790337	São Paulo, Brasil	São Paulo	city	Brasil	BR
+293	1053140768171405312	Abreu e Lima, Brasil	Abreu e Lima	city	Brasil	BR
+294	1053140873805000705	Belém, Brasil	Belém	city	Brasil	BR
+295	1053141008119144448	Río de Janeiro, Brasil	Río de Janeiro	city	Brasil	BR
+296	1053141451650097153	Feira de Santana, Brasil	Feira de Santana	city	Brasil	BR
+297	1053141484961193984	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+298	1053142149288603649	Salvador, Brazil	Salvador	city	Brazil	BR
+299	1053143068692672512	São Paulo, Brasil	São Paulo	city	Brasil	BR
+300	1053143426835865600	Nova Lima, Brasil	Nova Lima	city	Brazil	BR
+301	1053143426034737153	Feira de Santana, Brasil	Feira de Santana	city	Brasil	BR
+302	1053143676388601856	Río de Janeiro, Brasil	Río de Janeiro	city	Brasil	BR
+303	1053144092350316544	São Paulo, Brasil	São Paulo	city	Brasil	BR
+304	1053144648955367424	Río de Janeiro, Brasil	Río de Janeiro	city	Brasil	BR
+305	1053145426269036544	Porto Alegre, Brasil	Porto Alegre	city	Brasil	BR
+306	1053145465905180672	São Paulo, Brasil	São Paulo	city	Brasil	BR
+307	1053145986942541824	Río de Janeiro, Brasil	Río de Janeiro	city	Brasil	BR
+308	1053146355655417857	Nova Lima, Brasil	Nova Lima	city	Brazil	BR
+309	1053146443677159424	Campo Grande, Brazil	Campo Grande	city	Brazil	BR
+310	1053146602070794241	São Paulo, Brasil	São Paulo	city	Brasil	BR
+311	1053146977809129473	Balneário Camboriú, Brasil	Balneário Camboriú	city	Brasil	BR
+312	1053149272248606721	Lyngby-Taarbæk, Danmark	Lyngby-Taarbæk	city	Dinamarca	DK
+313	1053149896285605889	São Vicente, Brasil	São Vicente	city	Brazil	BR
+314	1053151299083087872	São Vicente, Brasil	São Vicente	city	Brazil	BR
+315	1053152027637899265	Braço do Norte, Brasil	Braço do Norte	city	Brasil	BR
+316	1053152228968665089	Niterói, Brasil	Niterói	city	Brasil	BR
+317	1053152608750309377	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+318	1053152681462763520	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+319	1053153855041662977	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+320	1053155117430652929	Jaguaruna, Brasil	Jaguaruna	city	Brasil	BR
+321	1053155214520389633	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+322	1053155533597876224	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+323	1053155728372981761	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+324	1053156345602625536	Jaguaruna, Brasil	Jaguaruna	city	Brasil	BR
+325	1053156604860862469	Campinas, Brasil	Campinas	city	Brasil	BR
+326	1053158330007539713	Canoas, Brasil	Canoas	city	Brasil	BR
+327	1053160413054058496	Sertãozinho, Brasil	Sertãozinho	city	Brasil	BR
+328	1053161821769752581	São Paulo, Brasil	São Paulo	city	Brasil	BR
+329	1053164399362498560	São Paulo, Brasil	São Paulo	city	Brasil	BR
+330	1053165733373452289	Santos, Brasil	Santos	city	Brasil	BR
+331	1053167047616724992	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+332	1053167799328272384	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+333	1053176982161235968	Belo Horizonte, Brasil	Belo Horizonte	city	Brasil	BR
+334	1053177620823711744	João Pessoa, Brasil	João Pessoa	city	Brasil	BR
+335	1053177787757092864	João Pessoa, Brasil	João Pessoa	city	Brasil	BR
+336	1053177905369493504	João Pessoa, Brasil	João Pessoa	city	Brasil	BR
+337	1053177942619111425	São Paulo, Brasil	São Paulo	city	Brasil	BR
+338	1053179313225457664	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+339	1053186506553286656	Belo Horizonte, Brasil	Belo Horizonte	city	Brasil	BR
+340	1053187113225781249	Montes Claros, Brasil	Montes Claros	city	Brasil	BR
+341	1053188777609453568	São Paulo, Brasil	São Paulo	city	Brasil	BR
+342	1053191914319724544	Campo Grande, Brasil	Campo Grande	city	Brasil	BR
+343	1053197166947254272	Recife, Brazil	Recife	city	Brazil	BR
+344	1053197999268982784	Seixal, Portugal	Seixal	city	Portugal	PT
+345	1053199259569438720	Uberlândia, Brasil	Uberlândia	city	Brasil	BR
+346	1053199457339215873	Rio das Antas, Brasil	Rio das Antas	city	Brasil	BR
+347	1053199723732045824	Guaxupé, Brasil	Guaxupé	city	Brasil	BR
+348	1053199874601246720	Teresina, Brasil	Teresina	city	Brasil	BR
+349	1053200089362194433	Lavras, Brasil	Lavras	city	Brasil	BR
+350	1053200423547531265	Lavras, Brasil	Lavras	city	Brasil	BR
+351	1053201741716615168	Lavras, Brasil	Lavras	city	Brasil	BR
+352	1053202254034034689	Lavras, Brasil	Lavras	city	Brasil	BR
+353	1053202735649222658	Aparecida, Brasil	Aparecida	city	Brasil	BR
+354	1053203166064529408	Lavras, Brasil	Lavras	city	Brasil	BR
+355	1053203227276009473	Barueri, Brasil	Barueri	city	Brazil	BR
+356	1053203516213420032	Lavras, Brasil	Lavras	city	Brasil	BR
+357	1053203535167438848	Rio de Janeiro, Brasil	Rio de Janeiro	city	Brasil	BR
+358	1053204250803818496	São Paulo, Brasil	São Paulo	city	Brasil	BR
+359	1053204687808331776	Belo Horizonte, Brasil	Belo Horizonte	city	Brasil	BR
+360	1053205653894914049	Feira de Santana, Brasil	Feira de Santana	city	Brasil	BR
+361	1053205744894574592	Salvador, Brasil	Salvador	city	Brasil	BR
+362	1053206336257880064	Rio das Antas, Brasil	Rio das Antas	city	Brasil	BR
+363	1053208653602476033	São Luís, Brasil	São Luís	city	Brasil	BR
+364	1053209538550263808	Manaus, Brasil	Manaus	city	Brasil	BR
+365	1053210129213149185	Belém, Brasil	Belém	city	Brasil	BR
+366	1053212355235061762	Campinas, Brasil	Campinas	city	Brazil	BR
+367	1053212686262194177	Belém, Brazil	Belém	city	Brazil	BR
+368	1053212980727418882	Jardim de Piranhas, Brasil	Jardim de Piranhas	city	Brasil	BR
+369	1053213158679166976	Osasco, Brasil	Osasco	city	Brasil	BR
+370	1053213219869913088	Curitiba, Brasil	Curitiba	city	Brasil	BR
+371	1053213290363527168	Cuiabá, Brasil	Cuiabá	city	Brasil	BR
+372	1053213299456774144	Santos, Brasil	Santos	city	Brasil	BR
+373	1053213497536995328	Brasília, Brazil	Brasília	city	Brazil	BR
+374	1053213625324838913	Belém, Brazil	Belém	city	Brazil	BR
+375	1053215094732218368	Patos de Minas, Brasil	Patos de Minas	city	Brasil	BR
+376	1053215982628552704	Fortaleza, Brasil	Fortaleza	city	Brasil	BR
+377	1053216560213569536	Brasilia, Brasil	Brasilia	city	Brasil	BR
+378	1053218746196770816	Belo Horizonte, Brasil	Belo Horizonte	city	Brasil	BR
+379	1053219377745682433	Brasília, Brazil	Brasília	city	Brazil	BR
+380	1053219520477913088	São Paulo, Brasil	São Paulo	city	Brasil	BR
+381	1053220179558256640	Diadema, Brasil	Diadema	city	Brasil	BR
+382	1053220274898944000	Salvador, Brasil	Salvador	city	Brasil	BR
+383	1053220361410670594	Goiânia, Brasil	Goiânia	city	Brasil	BR
+384	1053220430151065601	Penha, Brasil	Penha	city	Brasil	BR
+385	1053220813984407554	Brasília, Brasil	Brasília	city	Brasil	BR
+386	1053221061289041920	Jundiaí, Brasil	Jundiaí	city	Brasil	BR
+387	1053222145428545537	São Vicente, Brasil	São Vicente	city	Brasil	BR
